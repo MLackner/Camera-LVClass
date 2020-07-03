@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Abstract Camera.lvclass" Type="LVClass" URL="../Abstract Camera_class/Abstract Camera.lvclass"/>
-		<Item Name="Simulated.lvclass" Type="LVClass" URL="../Simulated_class/Simulated.lvclass"/>
+		<Item Name="Simulated Camera.lvclass" Type="LVClass" URL="../Simulated_class/Simulated Camera.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
