@@ -59,6 +59,7 @@
 			</Item>
 			<Item Name="PicamModel.ctl" Type="VI" URL="../../picam32_LabView_SDK/PICam_lib/types/PicamModel.ctl"/>
 			<Item Name="PicamRoi.ctl" Type="VI" URL="../../picam32_LabView_SDK/PICam_lib/types/PicamRoi.ctl"/>
+			<Item Name="PicamSensorTemperatureStatus.ctl" Type="VI" URL="../../picam32_LabView_SDK/PICam_lib/Ctrls/PicamSensorTemperatureStatus.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
